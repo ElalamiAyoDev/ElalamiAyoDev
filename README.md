@@ -4,9 +4,7 @@
 
 - 🔭 The Next Metaverse Dev On Web
 
-- 🌱 I’m currently learning **MERN and VR**
-
-- 📫 How to reach me **elalami.ayoub.99@gmail.com**
+- 📫 How to reach me **elalamiayodev@gmail.com**
 
 - ⚡ Fun fact  **Coding fuel is Coffe and Tea** 👌
 
